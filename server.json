@@ -1,0 +1,3 @@
+{
+    "mongo_connection": "mongodb+srv://snok:Q7bRSmeDYn1jC1Gh@cluster0.zfgpo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
